@@ -1,0 +1,23 @@
+body {
+  background-color: #222222;
+  color: #ccccc0;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.disclaimer {
+  /* display: inline-block; */
+  width: 50%;
+  max-width: 500px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: brown;
+  color: #aaaaaa;
+  border: 2px solid gold;
+  border-radius: 5px;
+}
